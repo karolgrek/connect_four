@@ -30,10 +30,6 @@ You can place as much as you want(as long as your spacebar works)<br/>
 <img src="https://i.imgur.com/FrY8ZJR.png" height="80%" width="80%" />
 <br />
 <br />
-You can place as much as you want(as long as your spacebar works)<br/>
-<img src="https://i.imgur.com/FrY8ZJR.png" height="80%" width="80%" />
-<br />
-<br />
 </p>
 
 <!--
