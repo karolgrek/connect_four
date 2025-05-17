@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 Well-known connect four game.
-You get 4 (or more.. yes you get style points for more) symbols of same colour in row/column/diagonal -> You Win!
+You get 4 (or more..) symbols of same colour in row/column/diagonal -> You Win!
 <br />
 
 <h2>Languages and Utilities Used</h2>
