@@ -7,7 +7,7 @@ You get 4 (or more..) symbols of same colour in row/column/diagonal -> You Win!
 
 <h2>Languages and Utilities Used</h2>
 - <b>Python</b> 
-- <b>Python tkinter</b>
+- <b>Python tkinter library</b>
 
 <h2>Program walk-through:</h2>
 I gave the game a really simple UI, made in tkinter.
