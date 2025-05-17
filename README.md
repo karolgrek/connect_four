@@ -19,6 +19,7 @@ The code is decomposed into:
 - connect_four_game.py (runs the game, keeps the scoreboard, shows who's turn it is)
 - tests-check.py (checks basic occurences [but the majority of testing was done by playing the game] )
 
+To play the game, just run Python file connect_four_game.py.
 <p align="center">
 The UI<br/>
 <img src="https://i.imgur.com/mNpZlf6.png" height="80%" width="80%" />
