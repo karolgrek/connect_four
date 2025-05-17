@@ -6,12 +6,14 @@ You get 4 (or more..) symbols of same colour in row/column/diagonal -> You Win!
 <br />
 
 <h2>Languages and Utilities Used</h2>
+
 - <b>Python</b> 
 - <b>Python tkinter library</b>
 
 <h2>Program walk-through:</h2>
 I gave the game a really simple UI, made in tkinter.
 The code is decomposed into:
+
 - draw_board.py (which draws the board, and all other stuff)
 - check.py (which checks If a player with last move is a winner)
 - connect_four_game.py (runs the game, keeps the scoreboard, shows who's turn it is)
